@@ -1,0 +1,19 @@
+2026-11-01 07:31:39.397: [INFO] CurrentProfilePath: C:\PJ\git\studentA\git_test2\src\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-01 07:31:39.397: [INFO] Profiles total count: 1
+2026-11-01 07:31:39.397: [INFO] Profile: name=프로필 1 path=C:\PJ\git\studentA\git_test2\src\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-11-01 07:31:39.397: [INFO] LastUsedProfileDir: C:\PJ\git\studentA\git_test2\src\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-01 07:31:39.397: [INFO] OnDoneLoading sync enabled: 0
+2026-11-01 07:31:39.397: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-01 07:31:39.397: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-01 07:31:39.397: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-01 07:32:25.954: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-01 07:32:36.516: [INFO] CurrentProfilePath: C:\PJ\git\studentA\git_test2\src\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-01 07:32:36.516: [INFO] Profiles total count: 1
+2026-11-01 07:32:36.516: [INFO] Profile: name=프로필 1 path=C:\PJ\git\studentA\git_test2\src\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-01T07:31:43.401Z
+2026-11-01 07:32:36.516: [INFO] LastUsedProfileDir: C:\PJ\git\studentA\git_test2\src\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-01 07:32:36.516: [INFO] MostRecentlyActiveProfile: name=프로필 1 path=C:\PJ\git\studentA\git_test2\src\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-01T07:31:43.401Z
+2026-11-01 07:32:36.516: [INFO] OnDoneLoading sync enabled: 0
+2026-11-01 07:32:36.516: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-01 07:32:36.516: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-01 07:32:36.516: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-01 07:33:31.501: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

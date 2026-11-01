@@ -1,0 +1,19 @@
+2026-11-01 07:27:17.215: [INFO] CurrentProfilePath: C:\PJ\git\studentA\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-01 07:27:17.215: [INFO] Profiles total count: 1
+2026-11-01 07:27:17.215: [INFO] Profile: name=프로필 1 path=C:\PJ\git\studentA\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=null
+2026-11-01 07:27:17.215: [INFO] LastUsedProfileDir: C:\PJ\git\studentA\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-01 07:27:17.215: [INFO] OnDoneLoading sync enabled: 0
+2026-11-01 07:27:17.215: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-01 07:27:17.215: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-01 07:27:17.215: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-01 07:27:59.730: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-01 07:28:05.487: [INFO] CurrentProfilePath: C:\PJ\git\studentA\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-01 07:28:05.487: [INFO] Profiles total count: 1
+2026-11-01 07:28:05.487: [INFO] Profile: name=프로필 1 path=C:\PJ\git\studentA\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-01T07:27:26.643Z
+2026-11-01 07:28:05.487: [INFO] LastUsedProfileDir: C:\PJ\git\studentA\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default
+2026-11-01 07:28:05.487: [INFO] MostRecentlyActiveProfile: name=프로필 1 path=C:\PJ\git\studentA\git_test2\.metadata\.plugins\org.eclipse.swt\EBWebView\Default lastActive=2026-11-01T07:27:26.643Z
+2026-11-01 07:28:05.487: [INFO] OnDoneLoading sync enabled: 0
+2026-11-01 07:28:05.487: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-01 07:28:05.487: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-01 07:28:05.487: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-01 07:30:18.135: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
